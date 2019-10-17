@@ -1,2 +1,2 @@
-# INF1339-Week01
-Demo repository for INF1339 assignment 2
+# INF1339-Project3
+Repository for INF1339 Project 3 
